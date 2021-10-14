@@ -130,7 +130,7 @@ class PCNetwork(nn.Module):
         return vfe
 ```
 
-We train this model on 2 patterns representing digits in an 4x5 pixel grid. The two patterns are displayed here:
+We train this model on 4 patterns representing digits in an 4x5 pixel grid. The four patterns are displayed here:
 
 
 ```python
